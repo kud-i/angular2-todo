@@ -1,4 +1,8 @@
-# Angular2Todo
+# Angular 2 Todo Web App
+
+## Useful links
+https://angular.io/docs/ts/latest/guide/template-syntax.html
+https://github.com/tastejs/todomvc-app-css
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
 
